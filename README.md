@@ -1,3 +1,5 @@
+#Unlocking the Starbucks Location Strategy
+
 We put together this presentation to help others understand how we thought a multi-billion dollar corporation like Starbucks would seek to expand into different locations. At the start of the project, we wanted to answer these basic questions:
 
     -As a popular domestic brand, is Starbucks prevalent across the entire United States?
